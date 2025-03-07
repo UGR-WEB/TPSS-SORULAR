@@ -1763,41 +1763,7 @@ const bookData = {
                 </div>
             `
      },
-{ "title": "Soru 88", "content": "<div class=\"question\"><h3>Soru 88:</h3><p>1- Bölge ve kritik yerler, gayri muayyen zamanlarda devriyelerle taranır, kapalı devre televizyon ile gözetlenerek güvenliği sağlanır.<br>2-Hava meydanlarında kişilere verilen giriş kartlarında, kart sahibinin fotoğrafı, kimliği, hava meydanındaki görevi, bu görevi gereği hava meydanı içinde girebileceği yerler ve kartın geçerlilik süresi belirtilir.<br>3-havaalanında uçakların bulunduğu bölgelerin güvenliği, uçuş pistleri, uçak taksi yolları ve apronların umuma açık olan sahalardan, fiziki engellerle ayrılması suretiyle sağlanır.<br>4-Yolcuların uçağa binmeleri amacıyla kullanılan kapılar, yolcu bulunmadığı zamanlarda devamlı kilitli tutulabilecek yapıda olmalı, yetkililerce sürekli olarak kontrol edilmelidir.<br><br>Yukarıdakilerden hangileri havaya dönük bölümün güvenliği için alınacak tedbirler arasında yer alır?</p><ul><li class=\"correct\">E) 1, 2, 3 ve 4 ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Tüm maddeler havaya dönük bölümün güvenliği için alınacak tedbirler arasında yer alır.</p></div></div>" }, { "title": "Soru 89", "content": "<div class=\"question\"><h3>Soru 89:</h3><p>Hasar gördüğünde hava meydanı fonksiyonlarının ciddi şekilde aksamasına yol açacak olan ve hava meydanı içinde veya hava meydanıyla direkt bağlantılı bulunan tesis ve yerlere ne ad verilir?</p><ul><li class=\"correct\">A) Hassas Tesis ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Hassas Tesis, hava meydanı fonksiyonlarının ciddi şekilde aksamasına yol açacak olan ve hava meydanı içinde veya hava meydanıyla direkt bağlantılı bulunan tesis ve yerlere verilen addır.</p></div></div>" }, { "title": "Soru 90", "content": "<div class=\"question\"><h3>Soru 90:</h3><p>Aşağıdakiler hangisi aktif sabotajlardan değildir?</p><ul><li class=\"correct\">D) Fikir Sabotajı ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Fikir Sabotajı, aktif sabotajlardan değildir. Diğer seçenekler aktif sabotaj örnekleridir.</p></div></div>" }, { "title": "Soru 91", "content": "<div class=\"question\"><h3>Soru 91:</h3><p>I) Yangın ihtimaline karşı hazırlıklı bulunulur<br>II) Enkaz ve yıkıntılar arasında gelişi güzel dolaşılmaz<br>III) Asansör yerine merdiven kullanılır<br>IV) Talimat verilmeden kesinlikle binaya veya riskli alana tekrar girilmez<br>Bir patlama olması halinde yukarıdakilerden hangisi/hangileri yapılır?</p><ul><li class=\"correct\">C) I, II, III ve IV ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Bir patlama olması halinde tüm maddelerdeki önlemler alınmalıdır.</p></div></div>" },{
-            "title": "Soru 92",
-            "content": "<div class=\"question\"><h3>Soru 92:</h3><p>Yolcu ve kabin bagajlarının son kez güvenlik kontrolünden geçirilerek alındıkları ve güvenlik açısından temiz kabul edilen terminal bölümüne ne ad verilir?</p><ul><li class=\"correct\">D) Güvenlik tahditli alan ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Güvenlik tahditli alan, yolcu ve kabin bagajlarının son kez güvenlik kontrolünden geçirilerek alındıkları ve güvenlik açısından temiz kabul edilen terminal bölümüdür.</p></div></div>"
-        },
-        {
-            "title": "Soru 93",
-            "content": "<div class=\"question\"><h3>Soru 93:</h3><p>Havacılık sektörünün çeşitli birimlerinde çalışan personelin ve ilgili alanda staj yapacak öğrencilerin havacılık güvenliğinin önemini anlamaları amacıyla temel bilgilerin verildiği eğitim aşağıdakilerden hangisidir?</p><ul><li class=\"correct\">B) Güvenlik Bilinci Eğitimi ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Güvenlik Bilinci Eğitimi, havacılık sektörünün çeşitli birimlerinde çalışan personelin ve ilgili alanda staj yapacak öğrencilerin havacılık güvenliğinin önemini anlamaları amacıyla temel bilgilerin verildiği eğitimdir.</p></div></div>"
-        },
-        {
-            "title": "Soru 94",
-            "content": "<div class=\"question\"><h3>Soru 94:</h3><p>Havaalanılarında ICAO' nun önerileri doğrultusunda gözlemler ve tavsiyelerde bulunmak üzere oluşturulan birim aşağıdakilerden hangisidir?</p><ul><li class=\"correct\">B) EADB ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>EADB (Emniyet Araştırma ve Denetleme Birimi), havaalanlarında ICAO standartlarına uygunluğu denetleyen ve tavsiyelerde bulunan resmi birimdir.</p></div></div>"
-        },{
-            "title": "Soru 95",
-            "content": "<div class=\"question\"><h3>Soru 95:</h3><p>Aşağıdakilerden hangisi potansiyel tehlike arz eden yolculardan değildir?</p><ul><li class=\"correct\">A) Transfer yolcu✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Transfer yolcu, potansiyel tehlike arz eden yolculardan değildir. Diğer seçenekler potansiyel tehlike arz eden yolcu örnekleridir.</p></div></div>"
-        },
-        {
-            "title": "Soru 96",
-            "content": "<div class=\"question\"><h3>Soru 96:</h3><p>I) Dart<br>II) Zıpkın<br>III) Dağcılık malzemeleri (krampon, çekiç, balta, tırmanma sopaları)<br>IV) Kayak ve batonlar<br><br>Yukardakilerden hangisi/hangileri 'Sivri /Keskin/Delici Eşyalar/Nesnelerdendir?</p><ul><li class=\"correct\">D) I, II, III ve IV✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Tüm seçenekler sivri/keskin/delici eşyalar/nesnelerdendir.</p></div></div>"
-        },
-        {
-            "title": "Soru 97",
-            "content": "<div class=\"question\"><h3>Soru 97:</h3><p>\"Güvenlik hizmetlerinin uygulanmasından doğrudan görevli ve sorumlu olan kolluk ve özel güvenlik görevlileri (güvenlik personeli) mevzuat kapsamında kendilerine verilen görevleri yerine getirir.\"<br><br>Aşağıdakilerden hangisi bu görevlerden biri değildir?</p><ul><li class=\"correct\">D) Kişilerin, uçak altı ve kabin bagajlarının gidecekleri yere güvenle ulaşmalarının sağlaması ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Kişilerin, uçak altı ve kabin bagajlarının gidecekleri yere güvenle ulaşmalarının sağlaması, güvenlik personelinin görevlerinden biri değildir. Diğer seçenekler güvenlik personelinin görevlerindendir.</p></div></div>"
-        },
-        {
-            "title": "Soru 98",
-            "content": "<div class=\"question\"><h3>Soru 98:</h3><p>Daha önce bir ülke tarafından kanunen kabul edilen ya da bir ülkeye kanuni olmayan yollardan giren, ancak ilgili ülkenin yetkili mercilerince resmi olarak söz konusu ülkeyi terk etmesi talep edilen kişilere ne ad verilir?</p><ul><li class=\"correct\">D) Sınır Dışı Edilen kişiler✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Sınır Dışı Edilen kişiler, daha önce bir ülke tarafından kanunen kabul edilen ya da bir ülkeye kanuni olmayan yollardan giren, ancak ilgili ülkenin yetkili mercilerince resmi olarak söz konusu ülkeyi terk etmesi talep edilen kişilerdir.</p></div></div>"
-        },
-{
-            "title": "Soru 99",
-            "content": "<div class=\"question\"><h3>Soru 99:</h3><p>I) Elle arama<br>II) Gözle kontrol yöntemi<br>III) Arama için destekleyici yöntemler<br><br>Araçların aranması ile ilgili yukarıdaki arama yöntemlerinden hangisi/hangileri kullanılır?</p><ul><li class=\"correct\">C) I ve II ✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Araçların aranması ile ilgili olarak elle arama ve gözle kontrol yöntemleri kullanılır.</p></div></div>"
-        },
-        {
-            "title": "Soru 100",
-            "content": "<div class=\"question\"><h3>Soru 100:</h3><p>I) Güvenlik personeli Ek-17 yer almasa da endişe duydukları maddenin girişini engelleyebilir.<br>II) Yasaklı maddeler konusunda yolcunun bilgilendirilmesi havayolunun sorumluluğundadır.<br>III)Yolcu dışındaki kişiler yasaklı madde taşımaları konusunda yetkilendirilebilir.<br>IV) Ek-17'de listelenen maddeler hiçbir şekilde güvenlik tahditli alanlarda depolanamaz.<br><br>Yasaklı maddelerin havayolu ile taşınmasına ilişkin yukarıdakilerden hangisi/hangileri yanlıştır?</p><ul><li class=\"correct\">E) Yalnız III✅</li></ul><div class=\"explanation\"><h4>Açıklama:</h4><p>Yolcu dışındaki kişilerin yasaklı madde taşımaları konusunda yetkilendirilmesi yanlıştır. Diğer seçenekler doğrudur.</p></div></div>"
-        },
+
     ]
 };
 
